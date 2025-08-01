@@ -66,8 +66,8 @@ Please ensure that your code adheres to our coding standards and includes approp
 
 ## Contributors
 
+- [Shubham Saxena](https://github.com/shubz23)
 - [Pulkit Kumar Mathur](https://github.com/Pulkit1822)
 - [Khushi Srivastava](https://github.com/Khushisrivastava9)
 - [Kashish Sinha](https://github.com/kashish281)
 - [Mritunjay](https://github.com/mritunjayyy)
-- [Shubham Saxena](https://github.com/shubz23)
